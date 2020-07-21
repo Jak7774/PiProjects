@@ -15,9 +15,9 @@ import RPi.GPIO as GPIO
 # --- Parameters for Weather API --- # 
 
 apikey = "" # Key to access API link for data
-# Location to check weather - currently West London
-lati = "51.000"
-longi = "-0.200"
+# Location to check weather - currently Westminster
+lati = "51.494720"
+longi = "-0.135278"
 
 # --- Parameters for Neopixels --- #
 
